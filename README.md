@@ -1,6 +1,5 @@
 <div align="center">
-🍀 Simulador de Mega-Sena — Gerador de Números da Sorte 🍀
-<br>
+  🍀 Simulador de Mega-Sena - Gerador de Números da Sorte 🍀
 </div> <br>
 
 ![Simulador Mega-Sena](assets/read-me.png)
